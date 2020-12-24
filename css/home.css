@@ -1,0 +1,32 @@
+
+/* #navbar{
+    display: grid;
+    grid-auto-rows: 50% 30% ;
+}
+.data{
+
+    display: inline;
+    position: relative;
+    left: 800px;
+} */
+body{
+    background-image: url(img/01.jpg)
+}
+
+.design{
+     font-size:50px; 
+     border-top-left-radius: 30%;
+     border-bottom-right-radius: 30%;
+   /* border-radius: 50%; */
+    margin-left: 5%;
+    margin-top:2%; 
+    padding: 30px; 
+}
+.color{
+    margin-left: 20%;
+    margin-top: 8%;
+}
+#cloth{
+    /* margin-left:10px ; */
+    color: blue;
+}
